@@ -1,5 +1,7 @@
 # task-api
 i completed the task as much i can.
+the first api can test on postman "localhost:8080/view_product/{name}/{location}
+the second api can test on browser "localhost:8080"
 i referred some youtube videos and article for the integration of payment gateway.
 links:
   
